@@ -1,0 +1,2 @@
+# VideoGamesMasterDirectory
+Stuff for games
